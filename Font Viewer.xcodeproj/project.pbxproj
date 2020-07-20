@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B5C313324C5EC7400BEEBC4 /* FontsDisplayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5C313224C5EC7400BEEBC4 /* FontsDisplayViewController.swift */; };
 		4BA6EFDA24B33A10002694EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA6EFD924B33A10002694EE /* AppDelegate.swift */; };
 		4BA6EFDC24B33A10002694EE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA6EFDB24B33A10002694EE /* ViewController.swift */; };
 		4BA6EFDE24B33A13002694EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BA6EFDD24B33A13002694EE /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4B5C313224C5EC7400BEEBC4 /* FontsDisplayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontsDisplayViewController.swift; sourceTree = "<group>"; };
 		4BA6EFD624B33A10002694EE /* Font Viewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Font Viewer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BA6EFD924B33A10002694EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4BA6EFDB24B33A10002694EE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				4BA6EFDB24B33A10002694EE /* ViewController.swift */,
 				4BA6EFDD24B33A13002694EE /* Assets.xcassets */,
 				4BA6EFDF24B33A13002694EE /* Main.storyboard */,
+				4B5C313224C5EC7400BEEBC4 /* FontsDisplayViewController.swift */,
 				4BA6EFE224B33A13002694EE /* Info.plist */,
 				4BA6EFE324B33A13002694EE /* Font_Viewer.entitlements */,
 			);
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4BA6EFDC24B33A10002694EE /* ViewController.swift in Sources */,
+				4B5C313324C5EC7400BEEBC4 /* FontsDisplayViewController.swift in Sources */,
 				4BA6EFDA24B33A10002694EE /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
